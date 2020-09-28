@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.boderox{
+	width:1000px;
+    height:600px;
+    margin: auto;
+    border: 2px solid red;
+    display:flex;
+    overflow: hidden;
+}
+.box1{
+	background: red;
+	width: 33.33%;
+	height: 600px;
+}
+.box2{
+	background:white;
+	width: 33.33%;
+	height: 600px;
+	position: relative;
+}
+.box3{
+	background: red;
+	width: 33.33%;
+	height: 600px;
+}
+.mostak{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
